@@ -1,1 +1,1 @@
-# Earthquake
+Logistic Regression Model
